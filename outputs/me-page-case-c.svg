@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <rect width="390" height="844" fill="#faf9f6"/>
+  <text x="28" y="60" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="15" fill="#b97063">沉沦</text>
+  <text x="28" y="143" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="38" font-weight="700" fill="#2b2a27">小橘</text>
+  <text x="28" y="174" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="14" fill="#8b867d">这是你们的小空间</text>
+  <circle cx="325" cy="136" r="39" fill="#f0e7df"/><text x="325" y="145" text-anchor="middle" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="22" fill="#b97063">橘</text>
+  <rect x="28" y="235" width="334" height="1" fill="#e7e1da"/>
+  <text x="28" y="286" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="16" fill="#50443c">昵称</text><text x="362" y="286" text-anchor="end" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="14" fill="#9a8f86">小橘  ›</text>
+  <text x="28" y="344" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="16" fill="#50443c">情侣空间</text><text x="362" y="344" text-anchor="end" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="14" fill="#9a8f86">我们的小屋  ›</text>
+  <text x="28" y="402" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="16" fill="#50443c">邀请码</text><text x="362" y="402" text-anchor="end" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="14" fill="#9a8f86">A8K2P1  ›</text>
+  <rect x="28" y="452" width="334" height="1" fill="#e7e1da"/>
+  <text x="28" y="510" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="16" fill="#50443c">修改密码</text><text x="362" y="510" text-anchor="end" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="14" fill="#9a8f86">›</text>
+  <text x="28" y="568" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="16" fill="#b97063">退出登录</text>
+  <rect x="0" y="780" width="390" height="64" fill="#fff"/>
+  <text x="49" y="818" text-anchor="middle" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="12" fill="#9a8f86">今天</text><text x="146" y="818" text-anchor="middle" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="12" fill="#9a8f86">记录</text><text x="244" y="818" text-anchor="middle" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="12" fill="#9a8f86">聊天</text><text x="341" y="818" text-anchor="middle" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="12" font-weight="700" fill="#b97063">我</text>
+</svg>

@@ -1,0 +1,20 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/*.pyc
+
+# 私密配置
+backend/.env
+
+# 用户上传的私人照片
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Local editor and OS files
+.vscode/*.log
+.DS_Store
+Thumbs.db

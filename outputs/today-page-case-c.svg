@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <rect width="390" height="844" fill="#f7f6f2"/>
+  <text x="28" y="58" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="15" fill="#b97063">沉沦</text>
+  <text x="28" y="122" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="30" font-weight="700" fill="#2b2a27">今天</text>
+  <text x="28" y="153" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#9a8f86">和你一起的第 128 天</text>
+  <text x="28" y="231" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="21" font-weight="600" fill="#50443c">今天想对彼此说什么？</text>
+  <rect x="28" y="260" width="334" height="78" rx="20" fill="#fff"/><text x="52" y="306" font-size="16" fill="#b97063">我的心情</text><text x="330" y="306" text-anchor="end" font-size="14" fill="#9a8f86">还没有记录  ›</text>
+  <rect x="28" y="354" width="334" height="78" rx="20" fill="#fff"/><text x="52" y="400" font-size="16" fill="#b97063">另一半的心情</text><text x="330" y="400" text-anchor="end" font-size="14" fill="#9a8f86">等待对方  ›</text>
+  <rect x="28" y="448" width="334" height="104" rx="22" fill="#f0e7df"/><text x="52" y="486" font-size="13" fill="#a06e63">今日打卡</text><text x="52" y="522" font-size="18" font-weight="600" fill="#50443c">一起完成今天的小事</text><text x="330" y="522" text-anchor="end" font-size="14" fill="#b97063">去完成  ›</text>
+  <text x="28" y="644" font-size="14" fill="#9a8f86">最近一条回忆</text><text x="28" y="684" font-size="18" font-weight="600" fill="#50443c">第一次见面</text>
+  <rect x="0" y="780" width="390" height="64" fill="#fff"/><text x="49" y="818" text-anchor="middle" font-size="12" font-weight="700" fill="#b97063">今天</text><text x="146" y="818" text-anchor="middle" font-size="12" fill="#9a8f86">记录</text><text x="244" y="818" text-anchor="middle" font-size="12" fill="#9a8f86">聊天</text><text x="341" y="818" text-anchor="middle" font-size="12" fill="#9a8f86">我</text>
+</svg>

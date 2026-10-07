@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <rect width="390" height="844" fill="#edebe5"/>
+  <text x="28" y="60" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="15" fill="#b97063">沉沦</text>
+  <text x="28" y="118" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="30" font-weight="700" fill="#2b2a27">我们的记录</text>
+  <div/>
+  <rect x="22" y="158" width="346" height="82" rx="22" fill="#b97063"/><text x="44" y="194" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#f8e5df">在一起</text><text x="44" y="222" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="23" font-weight="700" fill="#fff">已经相伴 128 天</text>
+  <circle cx="48" cy="286" r="18" fill="#ead6cf"/><text x="48" y="292" text-anchor="middle" font-size="12" fill="#b97063">橘</text><text x="78" y="291" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="12" fill="#8b867d">小橘 · 今天</text>
+  <rect x="28" y="310" width="334" height="112" rx="18" fill="#fff"/><text x="50" y="347" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="17" font-weight="600" fill="#50443c">今天的心情</text><text x="50" y="381" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="14" fill="#766f68">想你，也想和你一起吃晚饭。</text><text x="50" y="404" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="12" fill="#b97063">💭 想你</text>
+  <circle cx="48" cy="468" r="18" fill="#ead6cf"/><text x="48" y="474" text-anchor="middle" font-size="12" fill="#b97063">橘</text><text x="78" y="473" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="12" fill="#8b867d">共同记录 · 2026.09.20</text>
+  <rect x="28" y="492" width="334" height="112" rx="18" fill="#f0e7df"/><text x="50" y="529" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="17" font-weight="600" fill="#50443c">第一次见面</text><text x="50" y="563" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="14" fill="#766f68">那天的天气很好。</text>
+  <text x="195" y="700" text-anchor="middle" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="14" fill="#b97063">＋ 发布记录</text>
+  <rect x="0" y="780" width="390" height="64" fill="#fff"/><text x="49" y="818" text-anchor="middle" font-size="12" fill="#9a8f86">今天</text><text x="146" y="818" text-anchor="middle" font-size="12" font-weight="700" fill="#b97063">记录</text><text x="244" y="818" text-anchor="middle" font-size="12" fill="#9a8f86">聊天</text><text x="341" y="818" text-anchor="middle" font-size="12" fill="#9a8f86">我</text>
+</svg>

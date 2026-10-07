@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <rect width="390" height="844" fill="#edebe5"/>
+  <text x="28" y="58" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="15" fill="#b97063">沉沦</text>
+  <text x="28" y="121" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="30" font-weight="700" fill="#2b2a27">早安，小橘</text>
+  <text x="28" y="151" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#8b867d">今天也要温柔一点</text>
+  <rect x="22" y="196" width="346" height="180" rx="28" fill="#b97063"/><text x="48" y="239" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#f6ddd7">你们的今日状态</text><text x="48" y="295" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="31" font-weight="700" fill="#fff">0 / 2</text><text x="48" y="329" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="14" fill="#f6ddd7">今天还没有完成打卡</text><text x="320" y="329" text-anchor="end" font-size="14" fill="#fff">完成打卡  ›</text>
+  <rect x="22" y="406" width="166" height="126" rx="22" fill="#fff"/><text x="44" y="442" font-size="13" fill="#9a8f86">我的心情</text><text x="44" y="484" font-size="22" fill="#50443c">😊</text><text x="44" y="512" font-size="13" fill="#b97063">记录一下</text>
+  <rect x="202" y="406" width="166" height="126" rx="22" fill="#f0e7df"/><text x="224" y="442" font-size="13" fill="#9a8f86">纪念日</text><text x="224" y="484" font-size="22" font-weight="700" fill="#50443c">128</text><text x="224" y="512" font-size="13" fill="#b97063">相伴天数</text>
+  <text x="28" y="605" font-size="13" fill="#9a8f86">最近消息</text><text x="28" y="644" font-size="17" font-weight="600" fill="#50443c">还没有新的留言</text>
+  <rect x="0" y="780" width="390" height="64" fill="#fff"/><text x="49" y="818" text-anchor="middle" font-size="12" font-weight="700" fill="#b97063">今天</text><text x="146" y="818" text-anchor="middle" font-size="12" fill="#9a8f86">记录</text><text x="244" y="818" text-anchor="middle" font-size="12" fill="#9a8f86">聊天</text><text x="341" y="818" text-anchor="middle" font-size="12" fill="#9a8f86">我</text>
+</svg>

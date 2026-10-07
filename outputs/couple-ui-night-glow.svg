@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+<rect width="900" height="1200" fill="#171B27"/>
+<text x="80" y="86" fill="#7F879E" font-family="Arial, Microsoft YaHei" font-size="22" letter-spacing="4">CONCEPT 03</text>
+<text x="80" y="140" fill="#F0F1F6" font-family="Arial, Microsoft YaHei" font-size="42" font-weight="600">夜间柔光</text>
+<text x="80" y="178" fill="#9299AE" font-family="Arial, Microsoft YaHei" font-size="18">安静 · 私密 · 适合晚间使用</text>
+<rect x="290" y="230" width="320" height="700" rx="42" fill="#0B0D14"/>
+<rect x="301" y="241" width="298" height="678" rx="34" fill="#202638"/>
+<rect x="417" y="252" width="66" height="18" rx="9" fill="#0B0D14"/>
+<text x="326" y="310" fill="#9299AE" font-family="Arial, Microsoft YaHei" font-size="12">晚上 22:18</text>
+<text x="326" y="348" fill="#F0F1F6" font-family="Arial, Microsoft YaHei" font-size="25" font-weight="600">今天还没有一起打卡</text>
+<text x="326" y="375" fill="#9299AE" font-family="Arial, Microsoft YaHei" font-size="13">留下一点属于你们的时间</text>
+<circle cx="382" cy="424" r="32" fill="#B8A6D9"/><text x="372" y="431" fill="#FFFFFF" font-family="Arial" font-size="16">你</text>
+<circle cx="518" cy="424" r="32" fill="#8CA5C8"/><text x="507" y="431" fill="#FFFFFF" font-family="Arial" font-size="16">TA</text>
+<path d="M414 424 C445 398 455 450 486 424" fill="none" stroke="#909BC4" stroke-width="2" opacity=".8"/>
+<rect x="326" y="492" width="248" height="150" rx="24" fill="#293149" stroke="#3B4564"/>
+<text x="348" y="528" fill="#9EA8C8" font-family="Arial, Microsoft YaHei" font-size="13">今日情侣打卡</text>
+<text x="348" y="565" fill="#F0F1F6" font-family="Arial, Microsoft YaHei" font-size="21" font-weight="600">一起完成今天</text>
+<rect x="348" y="588" width="204" height="38" rx="19" fill="#9B8BC5"/>
+<text x="411" y="612" fill="#FFFFFF" font-family="Arial, Microsoft YaHei" font-size="14">开始打卡</text>
+<rect x="326" y="667" width="118" height="91" rx="20" fill="#2A3043"/>
+<text x="344" y="696" fill="#9EA8C8" font-family="Arial, Microsoft YaHei" font-size="12">纪念日倒计时</text><text x="344" y="730" fill="#F0F1F6" font-family="Arial, Microsoft YaHei" font-size="22" font-weight="600">12 天</text>
+<rect x="456" y="667" width="118" height="91" rx="20" fill="#2A3043"/>
+<text x="474" y="696" fill="#9EA8C8" font-family="Arial, Microsoft YaHei" font-size="12">最近回忆</text><text x="474" y="730" fill="#F0F1F6" font-family="Arial, Microsoft YaHei" font-size="15" font-weight="600">晚安，明天见</text>
+<line x1="326" y1="798" x2="574" y2="798" stroke="#3A4258"/>
+<text x="340" y="856" fill="#B8A6D9" font-family="Arial" font-size="20">⌂</text><text x="334" y="880" fill="#B8A6D9" font-family="Arial, Microsoft YaHei" font-size="10">今日</text>
+<text x="409" y="856" fill="#8992AB" font-family="Arial" font-size="20">◷</text><text x="397" y="880" fill="#8992AB" font-family="Arial, Microsoft YaHei" font-size="10">回忆</text>
+<text x="485" y="856" fill="#8992AB" font-family="Arial" font-size="20">□</text><text x="473" y="880" fill="#8992AB" font-family="Arial, Microsoft YaHei" font-size="10">纪念日</text>
+<text x="554" y="856" fill="#8992AB" font-family="Arial" font-size="20">○</text><text x="550" y="880" fill="#8992AB" font-family="Arial, Microsoft YaHei" font-size="10">我的</text>
+<text x="80" y="1030" fill="#9299AE" font-family="Arial, Microsoft YaHei" font-size="18">深蓝灰背景 · 薰衣草紫 · 低亮度 · 柔和光晕</text>
+</svg>

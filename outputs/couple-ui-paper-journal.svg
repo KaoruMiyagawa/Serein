@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+<rect width="900" height="1200" fill="#E7DED0"/>
+<text x="80" y="86" fill="#777263" font-family="Arial, Microsoft YaHei" font-size="22" letter-spacing="4">CONCEPT 02</text>
+<text x="80" y="140" fill="#3C4038" font-family="Arial, Microsoft YaHei" font-size="42" font-weight="600">浅色纸张</text>
+<text x="80" y="178" fill="#777263" font-family="Arial, Microsoft YaHei" font-size="18">共同日记 · 记录感 · 温暖克制</text>
+<rect x="290" y="230" width="320" height="700" rx="42" fill="#33352F"/>
+<rect x="301" y="241" width="298" height="678" rx="34" fill="#F4EFE6"/>
+<rect x="417" y="252" width="66" height="18" rx="9" fill="#33352F"/>
+<text x="326" y="310" fill="#8C887A" font-family="Arial, Microsoft YaHei" font-size="12">9月27日 · 星期日</text>
+<text x="326" y="348" fill="#3C4038" font-family="Arial, Microsoft YaHei" font-size="25" font-weight="600">今天</text>
+<text x="326" y="374" fill="#8C887A" font-family="Arial, Microsoft YaHei" font-size="13">你们的共同日记</text>
+<rect x="326" y="404" width="248" height="132" rx="16" fill="#FFFDF8" stroke="#D9D0C1"/>
+<text x="348" y="436" fill="#8C887A" font-family="Arial, Microsoft YaHei" font-size="13">今日打卡</text>
+<text x="348" y="470" fill="#3C4038" font-family="Arial, Microsoft YaHei" font-size="18" font-weight="600">今天有什么值得记录？</text>
+<rect x="348" y="489" width="204" height="30" rx="8" fill="#6E7C65"/>
+<text x="412" y="510" fill="#FFFFFF" font-family="Arial, Microsoft YaHei" font-size="13">写下今天</text>
+<text x="326" y="579" fill="#8C887A" font-family="Arial, Microsoft YaHei" font-size="12">最近的共同记录</text>
+<line x1="349" y1="610" x2="349" y2="738" stroke="#B3B8A7" stroke-width="2"/>
+<circle cx="349" cy="623" r="6" fill="#B26D58"/><text x="370" y="628" fill="#3C4038" font-family="Arial, Microsoft YaHei" font-size="14">9月26日</text><text x="370" y="651" fill="#777263" font-family="Arial, Microsoft YaHei" font-size="12">晚安，明天见</text>
+<circle cx="349" cy="690" r="6" fill="#B3B8A7"/><text x="370" y="695" fill="#3C4038" font-family="Arial, Microsoft YaHei" font-size="14">9月25日</text><text x="370" y="718" fill="#777263" font-family="Arial, Microsoft YaHei" font-size="12">一起吃了晚饭</text>
+<rect x="326" y="760" width="248" height="62" rx="16" fill="#E7E9DC"/>
+<text x="348" y="788" fill="#65705D" font-family="Arial, Microsoft YaHei" font-size="12">下一个纪念日</text><text x="479" y="794" fill="#65705D" font-family="Arial, Microsoft YaHei" font-size="17" font-weight="600">12 天</text>
+<line x1="326" y1="842" x2="574" y2="842" stroke="#D9D0C1"/>
+<text x="340" y="880" fill="#6E7C65" font-family="Arial" font-size="20">⌂</text><text x="334" y="900" fill="#6E7C65" font-family="Arial, Microsoft YaHei" font-size="10">今日</text>
+<text x="409" y="880" fill="#9B978B" font-family="Arial" font-size="20">◷</text><text x="397" y="900" fill="#9B978B" font-family="Arial, Microsoft YaHei" font-size="10">回忆</text>
+<text x="485" y="880" fill="#9B978B" font-family="Arial" font-size="20">□</text><text x="473" y="900" fill="#9B978B" font-family="Arial, Microsoft YaHei" font-size="10">纪念日</text>
+<text x="554" y="880" fill="#9B978B" font-family="Arial" font-size="20">○</text><text x="550" y="900" fill="#9B978B" font-family="Arial, Microsoft YaHei" font-size="10">我的</text>
+<text x="80" y="1030" fill="#777263" font-family="Arial, Microsoft YaHei" font-size="18">纸张白 · 橄榄绿 · 细边框 · 垂直时间线</text>
+</svg>

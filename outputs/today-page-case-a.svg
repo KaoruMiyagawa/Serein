@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <rect width="390" height="844" fill="#faf9f6"/>
+  <text x="28" y="58" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="15" fill="#b97063">沉沦</text>
+  <text x="28" y="121" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="30" font-weight="700" fill="#2b2a27">今天</text>
+  <text x="28" y="151" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#9a8f86">星期六，10 月 4 日</text>
+  <text x="28" y="213" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="17" font-weight="600" fill="#50443c">今天也一起生活</text>
+  <rect x="28" y="238" width="334" height="108" rx="24" fill="#f0e7df"/><text x="52" y="274" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#a06e63">今日打卡</text><text x="52" y="313" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="22" font-weight="700" fill="#50443c">还没有完成</text><text x="330" y="307" text-anchor="end" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#b97063">去打卡  ›</text>
+  <text x="28" y="405" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#9a8f86">今天的心情</text>
+  <text x="28" y="447" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18" fill="#50443c">我：还没有记录</text><text x="28" y="486" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18" fill="#50443c">另一半：等你来看看</text>
+  <line x1="28" y1="526" x2="362" y2="526" stroke="#e7e1da"/><text x="28" y="575" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#9a8f86">最近的一件事</text><text x="28" y="615" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18" font-weight="600" fill="#50443c">已经相伴 128 天</text>
+  <rect x="0" y="780" width="390" height="64" fill="#fff"/><text x="49" y="818" text-anchor="middle" font-size="12" font-weight="700" fill="#b97063">今天</text><text x="146" y="818" text-anchor="middle" font-size="12" fill="#9a8f86">记录</text><text x="244" y="818" text-anchor="middle" font-size="12" fill="#9a8f86">聊天</text><text x="341" y="818" text-anchor="middle" font-size="12" fill="#9a8f86">我</text>
+</svg>

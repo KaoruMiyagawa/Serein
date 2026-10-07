@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <rect width="390" height="844" fill="#f7f6f2"/>
+  <text x="28" y="58" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="15" fill="#b97063">沉沦</text>
+  <text x="28" y="113" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="30" font-weight="700" fill="#2b2a27">我</text>
+  <circle cx="329" cy="104" r="34" fill="#ead6cf"/>
+  <text x="329" y="113" text-anchor="middle" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="22" fill="#b97063">橘</text>
+  <text x="28" y="165" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="20" font-weight="600" fill="#50443c">小橘</text>
+  <text x="28" y="190" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#9a8f86">test2@chenlun.local</text>
+  <rect x="22" y="230" width="346" height="1" fill="#e7e1da"/>
+  <text x="28" y="275" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#9a8f86">我的设置</text>
+  <rect x="22" y="294" width="346" height="58" rx="16" fill="#fff"/>
+  <text x="44" y="330" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="15" fill="#50443c">修改昵称</text><text x="340" y="330" text-anchor="end" font-size="20" fill="#c5b8af">›</text>
+  <rect x="22" y="362" width="346" height="58" rx="16" fill="#fff"/>
+  <text x="44" y="398" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="15" fill="#50443c">修改密码</text><text x="340" y="398" text-anchor="end" font-size="20" fill="#c5b8af">›</text>
+  <text x="28" y="470" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#9a8f86">情侣空间</text>
+  <rect x="22" y="489" width="346" height="82" rx="18" fill="#f0e7df"/>
+  <text x="44" y="524" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="16" font-weight="600" fill="#5d5049">我们的小屋</text>
+  <text x="44" y="550" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="12" fill="#8c7064">邀请码  A8K2P1</text>
+  <text x="44" y="606" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#b97063">空间设置</text>
+  <rect x="22" y="690" width="346" height="50" rx="25" fill="#fff"/>
+  <text x="195" y="721" text-anchor="middle" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="14" fill="#b97063">退出登录</text>
+  <rect x="0" y="780" width="390" height="64" fill="#fff"/>
+  <text x="49" y="818" text-anchor="middle" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="12" fill="#b97063">今天</text><text x="146" y="818" text-anchor="middle" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="12" fill="#9a8f86">记录</text><text x="244" y="818" text-anchor="middle" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="12" fill="#9a8f86">聊天</text><text x="341" y="818" text-anchor="middle" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="12" font-weight="700" fill="#b97063">我</text>
+</svg>

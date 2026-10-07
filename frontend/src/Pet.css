@@ -1,0 +1,9 @@
+.pet-wrap { position: fixed; z-index: 20; right: 18px; bottom: 88px; display: grid; justify-items: end; pointer-events: none; }
+.pet-button { width: 76px; height: 76px; padding: 0; border: 0; border-radius: 50%; background: transparent; cursor: pointer; pointer-events: auto; animation: pet-float 3.2s ease-in-out infinite; }
+.pet-button:hover { animation-duration: 1.2s; }
+.pet-button:active { transform: scale(.9); }
+.pet-button img { width: 100%; height: 100%; object-fit: contain; filter: drop-shadow(0 8px 12px rgba(87, 61, 45, .16)); }
+.pet-bubble { margin-bottom: 6px; padding: 8px 12px; border-radius: 14px 14px 4px 14px; color: #6c554e; background: #fff; box-shadow: 0 8px 22px rgba(82, 66, 50, .12); font-size: 12px; white-space: nowrap; animation: pet-bubble-in .2s ease-out; }
+@keyframes pet-float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+@keyframes pet-bubble-in { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+@media (max-width: 600px) { .pet-wrap { right: 12px; bottom: 82px; } .pet-button { width: 62px; height: 62px; } }

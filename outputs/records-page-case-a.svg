@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <rect width="390" height="844" fill="#faf9f6"/>
+  <text x="28" y="60" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="15" fill="#b97063">沉沦</text>
+  <text x="28" y="118" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="30" font-weight="700" fill="#2b2a27">记录</text>
+  <text x="28" y="148" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#9a8f86">只保存你们的共同片段</text>
+  <line x1="62" y1="205" x2="62" y2="665" stroke="#e6d4cd" stroke-width="2"/>
+  <circle cx="62" cy="220" r="7" fill="#b97063"/><text x="88" y="225" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="12" fill="#b97063">2026.10.03</text>
+  <rect x="88" y="243" width="274" height="108" rx="18" fill="#fff"/><text x="108" y="276" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="17" font-weight="600" fill="#50443c">第一次完成打卡</text><text x="108" y="308" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#766f68">今天也一起认真生活。</text>
+  <circle cx="62" cy="400" r="7" fill="#d8b0a5"/><text x="88" y="405" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="12" fill="#b97063">2026.09.20</text>
+  <rect x="88" y="423" width="274" height="108" rx="18" fill="#f0e7df"/><text x="108" y="456" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="17" font-weight="600" fill="#50443c">第一次见面</text><text x="108" y="488" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="13" fill="#766f68">那天的天气很好。</text>
+  <text x="195" y="718" text-anchor="middle" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="14" fill="#b97063">＋ 写一条回忆</text>
+  <rect x="0" y="780" width="390" height="64" fill="#fff"/><text x="49" y="818" text-anchor="middle" font-size="12" fill="#9a8f86">今天</text><text x="146" y="818" text-anchor="middle" font-size="12" font-weight="700" fill="#b97063">记录</text><text x="244" y="818" text-anchor="middle" font-size="12" fill="#9a8f86">聊天</text><text x="341" y="818" text-anchor="middle" font-size="12" fill="#9a8f86">我</text>
+</svg>
